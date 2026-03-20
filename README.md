@@ -25,14 +25,14 @@ This repository focuses on resources that are directly useful for building, runn
 
 ## Datasets
 
-- [MC Speech Dataset](https://github.com/czyzi0/the-mc-speech-dataset) — Public-domain single-speaker Polish dataset with 24,018 short clips, transcripts for every clip, and more than 22 hours of audio, which makes it a strong starting point for single-speaker TTS experiments. [page:5][web:157]
-- [CML-TTS Polish](https://www.openslr.org/146/) — Polish subset of the multilingual CML-TTS corpus, distributed via OpenSLR under CC-BY 4.0, built from LibriVox audiobooks at 24 kHz. [page:6][web:151]
+- [MC Speech Dataset](https://github.com/czyzi0/the-mc-speech-dataset) — Public-domain single-speaker Polish dataset with 24,018 short clips, transcripts for every clip, and more than 22 hours of audio, which makes it a strong starting point for single-speaker TTS experiments.
+- [CML-TTS Polish](https://www.openslr.org/146/) — Polish subset of the multilingual CML-TTS corpus, distributed via OpenSLR under CC-BY 4.0, built from LibriVox audiobooks at 24 kHz. 
 - [SpokesBiz](https://arxiv.org/pdf/2312.12364.pdf) — Open corpus of conversational Polish with over 650 hours of recordings, diarization, and manual punctuation and casing annotation; it is more conversational than classic studio TTS corpora and can be useful for data mining or style diversification. [web:11][web:163]
-- [ParlaSpeech-PL 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1686?show=full) — Parliamentary spoken corpus of Polish with 535,465 entries and about 1,010 hours of audio, plus word-level alignments and speaker metadata, licensed under CC BY-SA 4.0. [web:161]
+- [ParlaSpeech-PL 1.0](https://www.clarin.si/repository/xmlui/handle/11356/1686?show=full) — Parliamentary spoken corpus of Polish with 535,465 entries and about 1,010 hours of audio, plus word-level alignments and speaker metadata, licensed under CC BY-SA 4.0.
 - [Polish Read Speech Corpus for Speech Tools and Services](http://arxiv.org/pdf/1706.00245.pdf) — High-quality studio Polish speech corpus released under an open license as part of the CLARIN speech-tools effort, intended to support text-to-phoneme conversion, alignment, diarization, and speech technology development. [web:14]
-- [nEMO](https://github.com/amu-cai/nEMO) — Emotional Polish speech dataset with over 3 hours of recordings from nine actors portraying six emotions, with transcriptions and explicit usefulness for emotionally expressive TTS. [web:153][web:156][web:189]
-- [YodaLingua-Polish](https://huggingface.co/datasets/Thomcles/YodaLingua-Polish) — Large Polish speech dataset described as TTS-ready, with 329,740 audio–transcription pairs, 893 hours, 11,357 speakers, 24 kHz audio, and permissive commercial-use-friendly licensing. [web:162]
-- [Speech Wikimedia](https://arxiv.org/pdf/2308.15710.pdf) — Multilingual CC-BY-SA speech corpus covering 77 languages, including Polish, which may be useful for mining additional aligned Polish speech segments. [web:154]
+- [nEMO](https://github.com/amu-cai/nEMO) — Emotional Polish speech dataset with over 3 hours of recordings from nine actors portraying six emotions, with transcriptions and explicit usefulness for emotionally expressive TTS. 
+- [YodaLingua-Polish](https://huggingface.co/datasets/Thomcles/YodaLingua-Polish) — Large Polish speech dataset described as TTS-ready, with 329,740 audio–transcription pairs, 893 hours, 11,357 speakers, 24 kHz audio, and permissive commercial-use-friendly licensing. 
+- [Speech Wikimedia](https://arxiv.org/pdf/2308.15710.pdf) — Multilingual CC-BY-SA speech corpus covering 77 languages, including Polish, which may be useful for mining additional aligned Polish speech segments.
 
 ## Training & Finetuning
 
