@@ -1,4 +1,6 @@
 # Awesome-Polish-TTS
+<img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/6fdbf9aa-f4f0-467c-b791-aebe44a6b61a" />
+
 This repository focuses on resources that are directly useful for building, running, training, or evaluating TTS systems for the Polish language.
 
 ## Contents
