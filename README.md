@@ -19,10 +19,11 @@ This repository focuses on resources that are directly useful for building, runn
 
 ## TTS Models
 
-- [Piper](https://github.com/rhasspy/piper) — Fast local neural TTS system with Polish `pl_PL` voices in the Piper voice ecosystem, making it one of the most practical offline choices for Polish TTS. 
-- [Coqui XTTS v2](https://docs.coqui.ai/en/latest/models/xtts.html) — Multilingual TTS model with Polish listed among supported languages, plus cross-language voice cloning and speaker adaptation features.
-- [MaryTTS Polish](https://github.com/marytts/marytts-lang-pl) — Polish language package for the MaryTTS stack, useful for older Java-based speech pipelines and rule-based or classical synthesis workflows.
-- [MMS TTS Polish](https://huggingface.co/facebook/mms-tts-pol) — Pretrained Polish checkpoint from Meta’s Massively Multilingual Speech project, available through the Hugging Face ecosystem for research and development work.
+- [Coqui XTTS v2](https://huggingface.co/coqui/XTTS-v2) — Multilingual TTS model supporting 17 languages including Polish, with zero-shot voice cloning, speaker interpolation, and strong prosody. One of the most proven open-source choices for Polish speech synthesis.
+- [VoxPolska-Auralis](https://huggingface.co/salihfurkaan/VoxPolska-Auralis) — Dedicated Polish TTS model (1B params) fine-tuned from Llasa/Llama-3.2-1B, trained on 24,000+ Polish transcript–audio pairs. Produces clear 16 kHz audio with natural-sounding Polish speech.
+- [OuteTTS 1.0-1B](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) — LLM-based multilingual TTS (1B params) trained on ~60,000 hours of audio, with Polish listed as a supported language. Offers zero-shot voice cloning and native Polish text support without romanization.
+- [Piper](https://github.com/rhasspy/piper) — Fast local neural TTS system with Polish `pl_PL` voices, making it one of the most practical offline choices for Polish TTS. Lightweight and well-suited for edge and home-assistant deployments.
+- [MMS TTS Polish](https://huggingface.co/facebook/mms-tts-pol) — Polish checkpoint from Meta’s Massively Multilingual Speech project, using the VITS architecture. Available via Hugging Face Transformers (v4.33+), licensed CC-BY-NC 4.0.
 - [RHVoice natan-pol](https://github.com/RHVoice/natan-pol) — Dedicated Polish voice for RHVoice, useful for accessibility-oriented and offline speech setups.
 
 ## Datasets
