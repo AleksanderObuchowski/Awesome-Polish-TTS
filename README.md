@@ -25,6 +25,7 @@ This repository focuses on resources that are directly useful for building, runn
 - [Piper](https://github.com/rhasspy/piper) — Fast local neural TTS system with Polish `pl_PL` voices, making it one of the most practical offline choices for Polish TTS. Lightweight and well-suited for edge and home-assistant deployments.
 - [MMS TTS Polish](https://huggingface.co/facebook/mms-tts-pol) — Polish checkpoint from Meta’s Massively Multilingual Speech project, using the VITS architecture. Available via Hugging Face Transformers (v4.33+), licensed CC-BY-NC 4.0.
 - [RHVoice natan-pol](https://github.com/RHVoice/natan-pol) — Dedicated Polish voice for RHVoice, useful for accessibility-oriented and offline speech setups.
+- [Supertonic](https://github.com/supertone-inc/supertonic) — Lightning-fast on-device multilingual TTS (~99M params) via ONNX Runtime, with native Polish (`pl`) among 31 supported languages, 44.1 kHz output, expression tags, and zero-shot voice cloning via Voice Builder. Practical for local, privacy-preserving Polish synthesis on desktop, mobile, and edge.
 
 ## Datasets
 
